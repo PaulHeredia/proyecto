@@ -10,5 +10,13 @@
     <p>Texto de Ayuda</p>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis amet ratione quaerat voluptatem voluptates numquam, tempore doloribus quae impedit fuga modi a eos aliquid nesciunt quod similique atque omnis illum.</p>
     
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit dolores nam dolorem ut aut dolore, laborum iure exercitationem molestias? Vitae, animi fugiat. Quod eius quis quibusdam! Officiis architecto quae nulla!</p>
+    <table>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </body>
 </html>
